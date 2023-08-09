@@ -44,7 +44,7 @@ I'm a recent Computer Science graduate with a keen interest in web development, 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/omar-el-nemr-3824ba268/
+- <a href="https://www.linkedin.com/in/omar-el-nemr-3824ba268" target="_blank">LinkedIn/</a>
 - Email: omar99elnemr@gmail.com
 
 Feel free to reach out and connect with me! I'm always open to discussing new ideas, collaborating on projects, or exploring potential opportunities. Let's learn and grow together in the exciting world of computer science!
