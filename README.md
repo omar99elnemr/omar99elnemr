@@ -43,11 +43,10 @@ I'm a recent Computer Science graduate with a keen interest in web development, 
 - Databases: MongoDB, MySQL
 - Version Control: Git, GitHub
 
-## 📫 How to Reach Me
+<!--## 📫 How to Reach Me
 
--  <a href=”https://www.linkedin.com/in/omar-el-nemr-3824ba268/"><img align=”left” src=”https://raw.githubusercontent.com/omar99elnemr/omar99elnemr/main/images/linkedin(2).png" alt=”Omar | LinkedIn” width=”21px”/></a>
-
-
+- 
+-->
 Feel free to reach out and connect with me! I'm always open to discussing new ideas, collaborating on projects, or exploring potential opportunities. Let's learn and grow together in the exciting world of computer science!
 <!--
 **omar99elnemr/omar99elnemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
