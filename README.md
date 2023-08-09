@@ -45,11 +45,7 @@ I'm a recent Computer Science graduate with a keen interest in web development, 
 
 ## 📫 How to Reach Me
 
-- [![linkedin](https://github.com/omar99elnemr/omar99elnemr/assets/63202153/60cbf001-980c-4921-ad2f-ea1de7e86d3e)][1]
-[![google-gmail](https://github.com/omar99elnemr/omar99elnemr/assets/63202153/37f80bda-8714-4a80-9dc0-dc20ef6f19de)][2]
-
-[1]: https://www.linkedin.com/in/omar-el-nemr-3824ba268/
-[2]: omar99elnemr@gmail.com
+-
 
 
 Feel free to reach out and connect with me! I'm always open to discussing new ideas, collaborating on projects, or exploring potential opportunities. Let's learn and grow together in the exciting world of computer science!
