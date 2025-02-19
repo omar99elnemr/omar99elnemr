@@ -1,8 +1,7 @@
 <h1 align="center">🚀 Omar's DevOps Mission Control 🛸</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Automation+Ambassador⚡;Marching+towards+DevSecOps+🚀🔐;Forever+curious,+endlessly+evolving+♾️ alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Automation+Ambassador+⚡;Marching+towards+DevSecOps+🚀🔐;Forever+curious,+endlessly+evolving+♾️" alt="Typing SVG" />
 </p>
-
 
 ### 🧑‍🚀 Mission Brief
 Greetings, fellow tech explorers! I'm Omar, a DevOps Engineer passionate about crafting scalable infrastructure and automating everything in sight! My journey involves building resilient systems, orchestrating containerized environments, and continuously improving deployment pipelines. Currently expanding my horizons into DevSecOps, because great infrastructure deserves great security!
