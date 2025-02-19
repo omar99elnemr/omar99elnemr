@@ -5,28 +5,40 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Building+and+Automating+at+Scale;Infrastructure+as+Code+Enthusiast;DevOps+%7C+DevSecOps+Explorer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
 
-### 🛠️ My DevOps Arsenal
+### 👨‍💻 About Me
+I'm a passionate DevOps Engineer who believes in the power of automation and infrastructure as code. With a strong foundation in cloud technologies and containerization, I'm constantly exploring new ways to improve development workflows and system reliability. Currently diving deeper into DevSecOps practices while seeking opportunities to work with large-scale systems that make a global impact.
 
+### 🛠️ Tech Stack
+
+#### ☁️ Cloud & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+#### 🔄 CI/CD & DevOps Tools
+<p align="center">
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/argo%20cd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
-### 🎯 Current Focus
-- 🔐 Diving deep into **DevSecOps** practices and tools
-- 🌐 Exploring large-scale system architectures
-- 🤖 Automating everything that can be automated
-- 📚 Continuously expanding my knowledge in cloud-native technologies
+#### 📊 Monitoring & Observability
+<p align="center">
+  <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+
+#### 💻 Programming & Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ### 🏆 Certifications
 <p align="center">
@@ -41,6 +53,12 @@
   </a>
 </p>
 
+### 🎯 Current Focus
+- 🔐 Diving deep into **DevSecOps** practices and tools
+- 🌐 Exploring large-scale system architectures
+- 🤖 Automating everything that can be automated
+- 📚 Continuously expanding my knowledge in cloud-native technologies
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omar99elnemr&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -54,9 +72,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/omar99elnemr">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/omar99elnemr">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
