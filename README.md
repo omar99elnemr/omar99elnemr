@@ -1,10 +1,9 @@
-<h1 align="center">🚀 Welcome to Omar's DevOps Mission Control 🛸</h1>
+<h1 align="center">🚀 Omar's DevOps Mission Control 🛸</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Infrastructure+Explorer+🌌;Automation+Architect+⚡;Cloud+Navigator+☁️;DevSecOps+Voyager+🛸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Infrastructure+Enthusiast+⚡;Automating+Today%2C+Securing+Tomorrow+🔐;Ready+for+the+DevSecOps+Journey+🚀" alt="Typing SVG" />
 </p>
-
-### 🧑‍🚀 Mission Brief
-Greetings, fellow tech explorers! I'm Omar, a DevOps Engineer on a mission to automate the galaxy! My journey involves crafting scalable infrastructure, orchestrating containerized constellations, and securing the digital cosmos. Currently navigating through the DevSecOps nebula while dreaming of engineering systems that span across the universe! 
+🧑‍🚀 Mission Brief
+Greetings, fellow tech explorers! I'm Omar, a DevOps Engineer passionate about crafting scalable infrastructure and automating everything in sight! My journey involves building resilient systems, orchestrating containerized environments, and continuously improving deployment pipelines. Currently expanding my horizons into DevSecOps, because great infrastructure deserves great security!
 
 ### 🛸 Command Center (Tech Stack)
 
