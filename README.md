@@ -1,6 +1,7 @@
-<h1 align="center">🚀 Omar's DevOps Mission Control 🛸</h1>
+<h1 align="center">👨‍💻 Infrastructure & DevOps Engineering 🚀</h1>
+<h2 align="center">Omar El-Nemr</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Infrastructure+Enthusiast+⚡;Automating+Today%2C+Securing+Tomorrow+🔐;Ready+for+the+DevSecOps+Journey+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=AWS+%7C+K8s+%7C+Docker+%7C+Terraform+Expert+⚡;CI%2FCD+Pipeline+Architect+🔄;Infrastructure+as+Code+Specialist+🏗️;Advancing+Towards+DevSecOps+🔒" alt="Typing SVG" />
 </p>
 
 ### 🧑‍🚀 Mission Brief
