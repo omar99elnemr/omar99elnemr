@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Infrastructure+Enthusiast+⚡;Automating+Today%2C+Securing+Tomorrow+🔐;Ready+for+the+DevSecOps+Journey+🚀" alt="Typing SVG" />
 </p>
-🧑‍🚀 Mission Brief
+
+### 🧑‍🚀 Mission Brief
 Greetings, fellow tech explorers! I'm Omar, a DevOps Engineer passionate about crafting scalable infrastructure and automating everything in sight! My journey involves building resilient systems, orchestrating containerized environments, and continuously improving deployment pipelines. Currently expanding my horizons into DevSecOps, because great infrastructure deserves great security!
 
 ### 🛸 Command Center (Tech Stack)
