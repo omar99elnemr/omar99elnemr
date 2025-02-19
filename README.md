@@ -38,7 +38,7 @@ Greetings, fellow tech explorers! I'm Omar, a DevOps Engineer passionate about c
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 🏆 Mission Achievements
+### 🏆 Mission Achievements (Certs)
 <p align="center">
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
     <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CP"/>
