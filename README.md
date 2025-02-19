@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A020F0&center=true&vCenter=true&width=940&lines=Welcome+to+Omar's+DevOps+Mission+Control+🚀" alt="Typing SVG" />
 </div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Infrastructure+Explorer+🌌;Automation+Architect+⚡;Cloud+Navigator+☁️;DevSecOps+Voyager+🛸" alt="Typing SVG" />
 </p>
