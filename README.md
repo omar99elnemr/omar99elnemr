@@ -41,30 +41,29 @@ Greetings, fellow tech explorers! I'm Omar, a passionate engineer specializing i
 
 ### 🏆 Mission Achievements (Certifications)
 <p align="center">
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
+  <a href="https://www.credly.com/badges/4f0386c7-67e3-4c87-9cd0-0996789f5fca/public_url">
     <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CP"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">
+  <a href="https://bit.ly/ms-az-900-o">
     <img src="https://img.shields.io/badge/Azure%20Fundamentals%20(AZ--900)-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900"/>
   </a>
-  <a href="https://www.redhat.com/en/services/certification/rhcsa">
+  <a href="https://www.credly.com/badges/4cd6cb44-ba96-4071-8572-bc7d5a58d8bf/public_url">
     <img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHCSA"/>
   </a>
-  <a href="https://www.cncf.io/certification/cka/">
+  <a href="https://www.credly.com/badges/973c3865-3770-431a-9032-ce47308b0c8e/public_url">
     <img src="https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA"/>
+  </a>
+  <a href="https://www.credly.com/users/omar99elnemr/badges">
+    <img src="https://img.shields.io/badge/Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate"/>
   </a>
 </p>
 
-### 🌟 Featured Mission (Projects)
+### 🌟 Featured Missions (Projects)
 
-#### 🎯 [Project Name Here]
-> Brief description of your main proud project - what it does, what technologies it uses, and why you're proud of it. For example: "A fully automated cloud-native platform built with Kubernetes, Terraform, and GitOps principles that reduced deployment time by 80%."
+#### 🔐 DevSecOps CI/CD Pipeline with GitOps
+> Production-ready CI/CD pipeline implementing DevSecOps best practices with GitHub Actions and ArgoCD. Features automated security scanning, container image building, and GitOps-based deployment to Kubernetes with comprehensive monitoring.
 
-**Tech Stack:** `Kubernetes` `AWS/Azure` `Terraform` `CI/CD` `Monitoring`
-
-🔗 [View Project](link-to-repo) | 📖 [Documentation](link-to-docs)
-
----
+**Tech Stack:** `GitHub Actions`
 
 ### 🎯 Current Coordinates
 - 🛸 Exploring the **DevSecOps** dimension
