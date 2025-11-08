@@ -1,16 +1,17 @@
 <h1 align="center">🚀 Omar's DevOps Mission Control 🛸</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Automation+Fanatic⚙️;Marching+towards+DevSecOps🚀🔐;Forever+curious,+endlessly+evolving+♾️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Cloud+%26+Platform+Engineer+⚙️;Building+Scalable+Infrastructure+🚀;DevSecOps+Enthusiast+🔐;Forever+curious,+endlessly+evolving+♾️" alt="Typing SVG" />
 </p>
 
 ### 🧑‍🚀 Mission Brief
-Greetings, fellow tech explorers! I'm Omar, a DevOps Engineer passionate about crafting scalable infrastructure and automating everything in sight! My journey involves building resilient systems, orchestrating containerized environments, and continuously improving deployment pipelines. Currently expanding my horizons into DevSecOps, because great infrastructure deserves great security!
+Greetings, fellow tech explorers! I'm Omar, a passionate engineer specializing in **Cloud Infrastructure, DevOps, and Platform Engineering**. My mission involves crafting scalable infrastructure, orchestrating containerized environments, and building robust platforms that empower development teams. Currently expanding my horizons into DevSecOps, because great infrastructure deserves great security!
 
 ### 🛸 Command Center (Tech Stack)
 
 #### ⚡ Core Systems (Cloud & Infrastructure)
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -38,10 +39,13 @@ Greetings, fellow tech explorers! I'm Omar, a DevOps Engineer passionate about c
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 🏆 Mission Achievements (Certs)
+### 🏆 Mission Achievements (Certifications)
 <p align="center">
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
     <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CP"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">
+    <img src="https://img.shields.io/badge/Azure%20Fundamentals%20(AZ--900)-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900"/>
   </a>
   <a href="https://www.redhat.com/en/services/certification/rhcsa">
     <img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="RHCSA"/>
@@ -51,11 +55,23 @@ Greetings, fellow tech explorers! I'm Omar, a DevOps Engineer passionate about c
   </a>
 </p>
 
+### 🌟 Featured Mission (Projects)
+
+#### 🎯 [Project Name Here]
+> Brief description of your main proud project - what it does, what technologies it uses, and why you're proud of it. For example: "A fully automated cloud-native platform built with Kubernetes, Terraform, and GitOps principles that reduced deployment time by 80%."
+
+**Tech Stack:** `Kubernetes` `AWS/Azure` `Terraform` `CI/CD` `Monitoring`
+
+🔗 [View Project](link-to-repo) | 📖 [Documentation](link-to-docs)
+
+---
+
 ### 🎯 Current Coordinates
 - 🛸 Exploring the **DevSecOps** dimension
-- 🌌 Charting courses through large-scale system architectures
+- 🌌 Building internal developer platforms and cloud-native architectures
 - ⚡ Automating every parsec of the journey
-- 🌠 Always scanning for new cloud-native constellations
+- 🌠 Always scanning for new cloud infrastructure patterns
+- 🔧 Empowering teams through better tooling and platform engineering
 
 ### 📊 Mission Logs
 <p align="center">
